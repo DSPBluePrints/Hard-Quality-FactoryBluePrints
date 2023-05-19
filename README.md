@@ -1,4 +1,4 @@
-# Hard-pick-FactoryBluePrints
+# Hard-Quality-FactoryBluePrints
 戴森球计划精选蓝图
 
 这是经过本人（重装小兔）精选的蓝图
