@@ -1,4 +1,4 @@
-*.md linguist-language=txt 
-*.json linguist-language=txt 
-*.html linguist-language=txt
-*.txt linguist-language=txt 
+*.md linguist-detectable=ture linguist-language=markdown
+*.json linguist-detectable=ture linguist-language=json
+*.html linguist-detectable=ture linguist-language=html
+*.txt linguist-detectable=ture linguist-language=text 
