@@ -1,0 +1,4 @@
+*.md linguist-language=txt 
+*.json linguist-language=txt 
+*.html linguist-language=txt
+*.txt linguist-language=txt 
