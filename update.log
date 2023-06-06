@@ -1,0 +1,27 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3EC1-D7A5
+
+ Directory of C:\Users\Li\Documents\Dyson Sphere Program\Blueprint\Hard-Quality-FactoryBluePrints
+
+2023/06/01  09:18    <DIR>          .
+2023/06/01  09:18    <DIR>          ..
+2023/05/23  18:18               226 .gitattributes
+2023/05/23  18:18               240 README.md
+2023/05/14  10:22             2,097 update.bat
+2023/06/01  09:18                 0 update.log
+2023/06/01  09:17    <DIR>          一塔一物 one tower one thing
+2023/06/01  09:17    <DIR>          其它 Others
+2023/06/01  09:17    <DIR>          分布式产线 Distributed Factory
+2023/06/01  09:18    <DIR>          合集__通关前 Folder_Before_Game_Completed
+2023/06/01  09:18    <DIR>          合集__通关后 Folder_After_Game_Completed
+2023/06/01  09:18    <DIR>          后期精选蓝图合集
+2023/06/01  09:18    <DIR>          基础材料 Basic Materials
+2023/06/01  09:18    <DIR>          电力 electricity
+2023/06/01  09:18    <DIR>          采矿&抽水 Mining & Pumping
+2023/06/01  09:18    <DIR>          黑盒__建筑超市 Black Box__Construction Supermarket
+2023/06/01  09:18    <DIR>          黑盒__糖厂 Blackbox_Matrixs
+               4 File(s)          2,563 bytes
+              13 Dir(s)  54,403,297,280 bytes free
+----
+2023/06/01  9:18:55.63 Infomation: GIT_PATH=git
+2023/06/01  9:18:55.72 Infomation: git reset --hard
