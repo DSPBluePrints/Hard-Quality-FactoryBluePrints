@@ -19,14 +19,16 @@
 
 ### 第一次下载
 
-1. 在电脑上打开github上的蓝图仓库主页: https://github.com/DSPBluePrints/FactoryBluePrints  
-2. 从这个页面->[**Releases**](https://github.com/DSPBluePrints/FactoryBluePrints/releases)<-，下载最新的蓝图包，文件名应该叫`FactoryBluePrints_X.Y.Z.rar`，请**不要**从绿色的Code处下载，那样文件不！完！整！  
-3. 解压后，像其他普通的蓝图包一样，连同文件夹一起放入游戏的默认蓝图文件夹。放进去以后应该是这样：`C:\Users\%USERNAME%\Documents\Dyson Sphere Program\Blueprint\FactoryBluePrints\README.md`。  
-4. **第一次使用必须先更新，不然此时没有任何蓝图。**  
+1. 在电脑上打开github上的蓝图仓库主页: https://github.com/DSPBluePrints/Hard-Quality-FactoryBluePrints
+2. 从这个页面->[**Releases**](https://github.com/DSPBluePrints/Hard-Quality-FactoryBluePrints/releases)<-，下载最新的蓝图包，文件名应该叫`Hard-Quality-FactoryBluePrints_X.Y.Z.rar`，或者下载一建包`Hard-Quality-FactoryBluePrints.bat`
+3. 请**不要**从绿色的Code处下载，那样文件不！完！整！  
+4. 解压后，像其他普通的蓝图包一样，连同文件夹一起放入游戏的默认蓝图文件夹。放进去以后路径应该是这样：`C:\Users\%USERNAME%\Documents\Dyson Sphere Program\Blueprint\Hard-Quality-FactoryBluePrints\Hard-Quality-FactoryBluePrints.bat`。  
+5. **第一次使用必须先更新，不然此时没有任何蓝图。**  
 
 ### 更新
 
-1. 只需双击即可：`update.bat`  一键包用户也可以运行
+1. 只需双击即可：`update.bat`  
+2. 一键包用户也可以运行上一级目录的 `Hard-Quality-FactoryBluePrints.bat`来进行更新or使用方法一更新
 
 ---
 
