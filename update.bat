@@ -40,7 +40,7 @@ goto end_with_error
 )
 
 ::test .git/
-%GIT_PATH% rev-parse --is-inside-work-tree
+%GIT_PATH% rev-parse --path-format=absolute --git-dir
 if %errorlevel% NEQ 0 (
 echo 错误：.git/已损坏
 echo %date% %time% Error: .git/ is broken>>%LOG_PATH%
@@ -72,7 +72,7 @@ exit
 
 :end_with_error
 echo 更新因为出现错误而中止，蓝图文件没有发生任何变动
-echo 常见问题请阅读说明https://github.com/DSPBluePrints/FactoryBluePrints/blob/main/README.md
+echo 常见问题请阅读说明https://github.com/DSPBluePrints/Hard-Quality-FactoryBluePrints/blob/main/README.md
 echo 如果仍然存疑可以加qq群反馈：162065696。请附上此页面截图和update.log截图。
 echo %date% %time% Infomation: Exit>>%LOG_PATH%
 pause
